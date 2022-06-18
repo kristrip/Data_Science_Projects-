@@ -1,3 +1,7 @@
+IPL WIN PREDICTOR OVER BY OVER
+
+
+
 Step 1 — Understanding the dataset!
 While dealing with data, Kaggle: Your Home for Data Science is the to-go platform. I used the dataset https://www.kaggle.com/nowke9/ipldata. The dataset has 2 files: matches.csv having every match detail from 2008 to 2019 and deliveries.csv having ball by ball detail for every match
 
