@@ -1,5 +1,4 @@
 Due to uploading limit and copyright claim
 i cannot upload the data here kindly go the link provided below and download the dataset required fot this project...
 Thanks
-
-# kaggle datasets download -d mlg-ulb/creditcardfraud
+kaggle datasets download -d mlg-ulb/creditcardfraud
